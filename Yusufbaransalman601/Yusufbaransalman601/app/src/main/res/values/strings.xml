@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Yusufbaransalman601</string>
+    <string name="metin1">Elektrik Faturası Hesapla</string>
+    <string name="metin2">Tüketim bilgilerinizi girerek elektrik faturanızı hesaplamak,kulladıgınız tarifeyle diğer
+    tarifeleri karşılaştırmak artık çok kolay Siz de elektrik tüketimlenizi gündüz ve gece ayrımıyla hesaplama yapın</string>
+    <string name="metin3">Tüketim Bilgilerini Giriniz</string>
+    <string name="metin4">Tüketici tarifesini seçiniz</string>
+    <string name="metin5">Mesken için gündüz 1 kwh=2tl ,Sanayi için gündüz 1kwh=4tl olarak hesaplama yapılmaktadır.
+    Gece tüketimlerinde %50 indirim uygulanmaktadır.Seçtiginiz tüketici tarifesine göre hesaplama yapınız.</string>
+    <string name="metin6">Tek Zamanlı Mesken - 4 AG TTTZ Mesken</string>
+    <string name="metin7">Üç Zamanlı Sanayi - 4 OG CTCZ Sanayi</string>
+</resources>
